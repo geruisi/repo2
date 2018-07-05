@@ -1,10 +1,5 @@
 this is first test file
-<<<<<<< HEAD
 this is 第三次提交
-=======
 this is 2ed test file
->>>>>>> 3b58479108da1abae05fa107eb5b43e12a44617b
-
 this is 2ed test file commit
-
 项目经理修改了hello代码
